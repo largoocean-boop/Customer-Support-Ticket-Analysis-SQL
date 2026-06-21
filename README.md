@@ -89,3 +89,11 @@ These products represent the strongest candidates for root-cause analysis and se
 * Customer Experience Analytics
 * Operational Reporting
 * Insight Generation
+
+Key Findings
+
+• Analyzed 8,470 customer support tickets
+• Average customer satisfaction score: 2.99/5
+• Refund Requests generated the lowest satisfaction scores
+• Email, Phone, Chat, and Social Media channels each accounted for approximately 25% of support volume
+• Sony Xperia, LG OLED, and Apple AirPods generated both high ticket volume and below-average customer satisfaction
